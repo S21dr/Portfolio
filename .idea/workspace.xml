@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7923258c-f4fe-4c27-ba6b-5b9c8237e420" name="Default Changelist" comment="" />
+    <list default="true" id="7923258c-f4fe-4c27-ba6b-5b9c8237e420" name="Default Changelist" comment="add app">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,11 +49,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651591597777</updated>
-      <workItem from="1651591599966" duration="4609000" />
+      <workItem from="1651591599966" duration="4870000" />
     </task>
+    <task id="LOCAL-00001" summary="add app">
+      <created>1651596621557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651596621557</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add app" />
+    <option name="LAST_COMMIT_MESSAGE" value="add app" />
   </component>
 </project>
