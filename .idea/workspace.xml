@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7923258c-f4fe-4c27-ba6b-5b9c8237e420" name="Default Changelist" comment="add app">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="7923258c-f4fe-4c27-ba6b-5b9c8237e420" name="Default Changelist" comment="fix homepage">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651591597777</updated>
-      <workItem from="1651591599966" duration="4870000" />
+      <workItem from="1651591599966" duration="5414000" />
     </task>
     <task id="LOCAL-00001" summary="add app">
       <created>1651596621557</created>
@@ -58,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651596621557</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix homepage">
+      <created>1651597040836</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651597040836</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add app" />
-    <option name="LAST_COMMIT_MESSAGE" value="add app" />
+    <MESSAGE value="fix homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix homepage" />
   </component>
 </project>
